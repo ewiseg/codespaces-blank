@@ -1,1 +1,1 @@
-Buildlane s.r.o. ioco 14025485# codespaces-blank
+Buildlane s.r.o. IČO 14025485# codespaces-blank
